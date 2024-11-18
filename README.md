@@ -41,7 +41,9 @@ pip install -r requirements.txt
 ```
 
 7. Rename _.env-sample_ to _.env_
+
 8. Fill up the environment variables:
+
     _Generate your own Secret key using this tool [https://djecrety.ir/](https://djecrety.ir/), copy and paste the secret key in the SECRET_KEY field._
 
     _Your configuration should look something like this:_
