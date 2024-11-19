@@ -1,1 +1,8 @@
-env/
+*.env.local
+.env
+.venv
+
+build
+coverage
+cache
+node_modules

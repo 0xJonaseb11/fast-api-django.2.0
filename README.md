@@ -1,5 +1,7 @@
 # fast-api-django.2.0
 
+A fast-api django web2.0 application with auth functionalities!!
+
 ## Setup Instructions
 
 1. Clone the repository 
@@ -10,7 +12,7 @@ git clone https://github.com/0xJonaseb11/fast-api-django.2.0.git
 
 2. Navigrate to the working directory 
 ```sh
-cd greatcart.epy
+cd fast-api-django.2.0
 ```
 
 3. Open the project from the code editor 
@@ -74,9 +76,9 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-12. Login to admin panel - (`http://127.0.0.1:8000/securelogin/`)
+<!-- 12. Login to admin panel - (`http://127.0.0.1:8000/securelogin/`) -->
 
-13. Add categories, products, add variations, register user, login, place orders and EXPLORE SO MANY FEATURES
+12. Add categories, products, add variations, register user, login, place orders and EXPLORE SO MANY FEATURES
 
 ### Support
 💙 If you like this project, give it a ⭐ and share it with friends!
